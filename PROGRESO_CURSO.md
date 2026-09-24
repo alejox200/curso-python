@@ -304,10 +304,35 @@
   - Operador ternario para clasificación de acompañantes de riesgo.
   - Sanitización de datos de entrada y presentación de reportes clínicos con f-strings.
 - **Puntuación del Proyecto:** **98 / 100** (Excelente resolución de lógica compleja y corrección precisa de precedencia de operadores).
-- **Tiempo de Estudio Hoy (20/09/2026):** **83 minutos (~1 hora y 23 minutos)** (18:04 a 19:27).
-- **Tiempo Total Acumulado en el Curso:** **485 minutos (~8 horas y 5 minutos)** en 7 sesiones de estudio.
+- **Tiempo de Estudio (20/09/2026):** **83 minutos (~1 hora y 23 minutos)** (18:04 a 19:27).
 - **Estado:** ✅ Proyecto del Capítulo 2 Aprobado con honores.
 - **Próximo paso:** Sesión 11 — Examen Oficial del Capítulo 2 y Cierre del Capítulo.
+
+---
+
+### Sesión 11 — Examen Final del Capítulo 2: Condicionales y Lógica
+- **Fecha:** 23/09/2026
+- **Resultados por Sección:**
+  - **Parte 1 (Conceptos):** 22 / 25 (Definiciones claras de `=`, `==`, `and`, `or` y paréntesis lógicos).
+  - **Parte 2 (Lectura de Código):** 15 / 25 (Ruta Alfa correcta; análisis de evaluación de booleanos y ternarios en Bloque B).
+  - **Parte 3 (Debugging):** 25 / 25 (Detección y corrección 100% precisa de sintaxis, comparación e indentación en `pruebas_debugging.py`).
+  - **Parte 4 (Problema Práctico - `examen_c2.py`):** 23 / 25 (Implementación sólida de tarifas por tipo de vehículo y hora pico).
+- **NOTA FINAL DEL EXAMEN:** **85 / 100** 🏆 (Buen Dominio — Aprobado).
+- **Tiempo de Estudio Hoy (23/09/2026):** **47 minutos** (19:03 a 19:50).
+- **Tiempo Total Acumulado en el Curso:** **532 minutos (~8 horas y 52 minutos)** en 8 sesiones de estudio.
+
+---
+
+## 🎯 BALANCE Y EVALUACIÓN ADAPTATIVA DEL CAPÍTULO 2
+- **Estado Global:** **CAPÍTULO 2 COMPLETADO Y APROBADO**.
+- **Ritmo de Aprendizaje:** **RÁPIDO - SÓLIDO**.
+- **Fortalezas Destacadas:**
+  - Dominio de la indentación y jerarquía de bloques `if` / `elif` / `else`.
+  - Comprensión intuitiva de operadores lógicos `and` y `or`.
+  - Capacidad excelente de depuración de errores de terceros en `pruebas_debugging.py`.
+- **Siguiente Etapa:** **CAPÍTULO 3 — Bucles y Control de Repetición (`while`, `for`, `range`, `break`, `continue`)**.
+
+
 
 
 

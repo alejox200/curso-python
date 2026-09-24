@@ -1,18 +1,15 @@
-#El primer error es es la aliniacion de los if, ya que el segundo no tiene los dos tabs necesarios y no se sabra que else pertenece al primer if o al segundo
-#Falta una valiable llamada edad
-nivel = input("Ingrese su rango (admin, usuario, invitado): ").strip().lower()
-edad = int(input("Ingrese su edad: "))
+usuario = "admin"
+password_correcta = True
+intentos = 3
 
-if nivel == "admin": autenticado = True
-
-if autenticado:
-    if nivel == "admin":
-        print("Acceso Total")
+if intentos > 0:
+    if usuario == "admin" and password_correcta == True:
+        print("Login Exitoso")
     else:
-        print("Acceso Limitado")
+        print("Credenciales Incorrectas")
 else:
-    print("No autenticado")
+    print("Cuenta Bloqueada")
 
-tipo = "Mayor" if edad >= 18 else "Menor"
-print(tipo)
-#Mejore un poco el progrema
+#linea 5 el if no termina con :
+#linea 6 solo contiene un "=" cuando para verificar si es igual deben ser dos
+#linea 7 le falta una tabulacion en el print
