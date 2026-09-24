@@ -274,10 +274,43 @@
 - **Puntuación sesión:** 96 / 100 (Excelente retención y resolución de problemas tras el receso).
 - **Nivel de dificultad:** Intermedio.
 - **Pistas utilizadas:** 0.
-- **Tiempo de Estudio Hoy (01/09/2026):** **76 minutos (~1 hora y 16 minutos)** (17:18 a 18:34).
-- **Tiempo Total Acumulado en el Curso:** **382 minutos (~6 horas y 22 minutos)** en 5 sesiones de estudio.
+- **Tiempo de Estudio (01/09/2026):** **76 minutos (~1 hora y 16 minutos)** (17:18 a 18:34).
 - **Estado:** ✅ Todas las 4 lecciones del Capítulo 2 completadas con éxito.
+- **Próximo paso:** Sesión 10 — Hito de Control de Versiones + Proyecto Integrador del Capítulo 2.
+
+---
+
+### Hito Especial — Configuración Profesional de Git & GitHub
+- **Fecha:** 02/09/2026
+- **Actividad:** Creación de repositorio público oficial, redacción de `README.md`, configuración de Git local, autenticación con Personal Access Token (PAT) y despliegue a GitHub (`origin main`).
+- **Habilidades de Ingeniería Adquiridas:**
+  - Control de versiones con Git (`init`, `add`, `commit`, `remote`, `push`).
+  - Resolución de autenticación segura moderna en Linux con Tokens de Acceso.
+  - Documentación técnica y divulgación de proyectos en formato Markdown.
+- **Repositorio Oficial:** `https://github.com/alejox200/curso-python`
+- **Tiempo de la Sesión:** **20 minutos** (18:52 a 19:12).
+- **Tiempo Total Acumulado en el Curso:** **402 minutos (~6 horas y 42 minutos)** en 6 sesiones.
 - **Próximo paso:** Sesión 10 — Proyecto Integrador del Capítulo 2 (Sistema Experto de Diagnóstico y Toma de Decisiones) y Examen Oficial del Capítulo 2.
+
+---
+
+### Sesión 10 — Capítulo 2: Proyecto Integrador (Sistema Experto de Triaje Médico)
+- **Fecha:** 20/09/2026
+- **Actividad:** Proyecto de Capítulo 2 — `Capitulo 2/triaje_medico.py`
+- **Habilidades aplicadas:**
+  - Lógica booleana compuesta de alta precisión (`and`, `or`, agrupación con paréntesis).
+  - Estructuración de flujos condicionales de múltiples ramas (`if`, `elif`, `else`).
+  - Condicionales anidados para aislamiento epidemiológico.
+  - Operador ternario para clasificación de acompañantes de riesgo.
+  - Sanitización de datos de entrada y presentación de reportes clínicos con f-strings.
+- **Puntuación del Proyecto:** **98 / 100** (Excelente resolución de lógica compleja y corrección precisa de precedencia de operadores).
+- **Tiempo de Estudio Hoy (20/09/2026):** **83 minutos (~1 hora y 23 minutos)** (18:04 a 19:27).
+- **Tiempo Total Acumulado en el Curso:** **485 minutos (~8 horas y 5 minutos)** en 7 sesiones de estudio.
+- **Estado:** ✅ Proyecto del Capítulo 2 Aprobado con honores.
+- **Próximo paso:** Sesión 11 — Examen Oficial del Capítulo 2 y Cierre del Capítulo.
+
+
+
 
 
 
