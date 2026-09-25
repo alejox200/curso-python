@@ -332,6 +332,34 @@
   - Capacidad excelente de depuración de errores de terceros en `pruebas_debugging.py`.
 - **Siguiente Etapa:** **CAPÍTULO 3 — Bucles y Control de Repetición (`while`, `for`, `range`, `break`, `continue`)**.
 
+---
+
+### Sesión 12 — Capítulo 3: El Bucle `while`, Contadores y Acumuladores
+- **Fecha:** 25/09/2026
+- **Lección:** Capítulo 3 - Lección 1: Repetición condicionada con `while`, prevención de bucles infinitos, operadores de asignación aumentada (`+=`, `-=`).
+- **Conceptos aprendidos:**
+  - Estructura del bucle `while` y su ciclo de vida (evaluar -> ejecutar -> reevaluar).
+  - Variable de control (contador) e incremento con `+= 1`.
+  - Acumuladores de totales y sumatorias.
+  - Manejo y prevención de bucles infinitos.
+  - Validación de condiciones iniciales falsas (`while x < 5` con `x = 10`).
+- **Conceptos dominados:**
+  - Creación de bucles interactivos acumulativos (`deposito_bancario.py`).
+  - Formateo de dos decimales con `:.2f` en salidas numéricas.
+  - Identificación y corrección de bucles infinitos en `pruebas_debugging.py`.
+- **Conceptos reforzados:**
+  - Orden de acumulación tras validar la entrada (`saldo_actual += deposito` dentro del bloque `if deposito > 0`).
+- **Ejercicios realizados:** `Capitulo 3/leccion1.py`, `Capitulo 3/deposito_bancario.py`, `pruebas_debugging.py`.
+- **Puntuación sesión:** 96 / 100 (Excelente entendimiento de la iteración y acumuladores).
+- **Nivel de dificultad:** Básico-Intermedio.
+- **Pistas utilizadas:** 0.
+- **Tiempo de Estudio Hoy (25/09/2026):** **39 minutos** (16:58 a 17:37).
+- **Tiempo Total Acumulado en el Curso:** **571 minutos (~9 horas y 31 minutos)** en 9 sesiones de estudio.
+- **Estado:** ✅ Lección 1 del Capítulo 3 completada con éxito.
+- **Próximo paso:** Sesión 13 — Capítulo 3: Lección 2 (El bucle `for`, la función `range()` e iteración de secuencias).
+
+
+
 
 
 

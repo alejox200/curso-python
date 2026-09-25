@@ -36,11 +36,7 @@ else:
 
 #Operador ternario
 if dispositivo == "si":
-    descuento = "Aplicado"
-else:
-    descuento = "No aplicado"
-
-if descuento == "Aplicado":
+    descuento = "Aplicado" if dispositivo == "no" else "No aplicado"
     print(f"Su descuento es: {descuento} y tiene un 10% de descuento")
 else:
     print(f"No tiene descuento por el momento: {descuento}")

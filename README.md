@@ -26,7 +26,7 @@ Capitulo 1 y Capitulo 2
 - Programación orientada a objetos orientada a objetos
 
 # Explicación de los archivos
-Hasta hoy 23 de Septiembre de 2026 esta actualizado hasta el capitulo 2 completo.
+Hasta hoy 25 de Septiembre de 2026 esta actualizado hasta el capitulo 3 lección 1.
 Seguire actualizando segun voy avanzando. En el curso hay un archivo para llevar un registro de mi progreso el cual es el **PROGRESO_CURSO.md**. Donde pueden encontrar la manera en la que fui progresando poco a poco y se vayan entendiendo mejor la manera de aprendizaje propia. Porque se puede aprender de muchas maneras diferentes.
 
 En **pruebas_debugging.py** se encuentra un archivo exclusivamente para hacer pruebas de debugging, probar errores y demas cosas que puedan salir. Una especie de zona de pruebas donde se prueban cosas nuevas o errores que hayan salido en lecciones pasadas y puedan entenderse mejor. Les invito que ustedes mismos puedan usar ese archivo como su propia zona de pruebas para reforzar su aprendizaje.
