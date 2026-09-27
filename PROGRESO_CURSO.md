@@ -353,10 +353,39 @@
 - **Puntuación sesión:** 96 / 100 (Excelente entendimiento de la iteración y acumuladores).
 - **Nivel de dificultad:** Básico-Intermedio.
 - **Pistas utilizadas:** 0.
-- **Tiempo de Estudio Hoy (25/09/2026):** **39 minutos** (16:58 a 17:37).
-- **Tiempo Total Acumulado en el Curso:** **571 minutos (~9 horas y 31 minutos)** en 9 sesiones de estudio.
+- **Tiempo de Estudio (25/09/2026):** **39 minutos** (16:58 a 17:37).
 - **Estado:** ✅ Lección 1 del Capítulo 3 completada con éxito.
 - **Próximo paso:** Sesión 13 — Capítulo 3: Lección 2 (El bucle `for`, la función `range()` e iteración de secuencias).
+
+---
+
+### Sesión 13 — Capítulo 3: El Bucle `for` y la Función `range()`
+- **Fecha:** 26/09/2026
+- **Lección:** Capítulo 3 - Lección 2: Iteración determinada con `for`, rangos numéricos con `range(start, stop, step)`, e iteración sobre caracteres de texto.
+- **Conceptos aprendidos:**
+  - Diferencia de casos de uso entre `while` (indeterminado) y `for` (determinado).
+  - La regla del límite superior no inclusivo de `range()` (`stop - 1`).
+  - Parámetro de paso / incremento (*step*) en secuencias crecientes y decrecientes.
+  - Iteración carácter por carácter sobre strings.
+  - El **Patrón del Acumulador** en bucles `for` para cálculos iterativos e interés compuesto.
+- **Conceptos dominados:**
+  - Descomposición y conteo condicional en textos (`leccion2.py`).
+  - Corrección de límites en `range()` en `pruebas_debugging.py`.
+  - Construcción de simulador financiero con acumulación interanual precisa (`simulador_inversion.py`).
+- **Conceptos reforzados:**
+  - `range(n)` inicia siempre en `0` (`0, 1, ..., n-1`).
+  - `range(inicio, fin, paso)` comienza exactamente en `inicio`.
+  - Creación de acumulador fuera del bucle y modificación con `+=` dentro del cuerpo iterativo.
+- **Ejercicios realizados:** `Capitulo 3/leccion2.py`, `Capitulo 3/simulador_inversion.py`, `pruebas_debugging.py`.
+- **Puntuación sesión:** 96 / 100 (Comprensión profunda y sólida del patrón acumulador en bucles).
+- **Nivel de dificultad:** Básico-Intermedio.
+- **Pistas utilizadas:** 1.
+- **Tiempo de Estudio Hoy (26/09/2026):** **42 minutos** (18:44 a 19:26).
+- **Tiempo Total Acumulado en el Curso:** **613 minutos (~10 horas y 13 minutos)** en 10 sesiones de estudio.
+- **Estado:** ✅ Lección 2 del Capítulo 3 completada con éxito.
+- **Próximo paso:** Sesión 14 — Capítulo 3: Lección 3 (Control de Bucles: `break`, `continue` y la cláusula `else`).
+
+
 
 
 

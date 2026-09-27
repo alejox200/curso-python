@@ -1,8 +1,5 @@
-numero = 1
+for numero in range(2, 11, 2):
+    print(numero)
 
-while numero <= 5:
-    print(f"El número actual es: {numero}")
-    numero += 1
-
-#1 Es un bucle infinito porque no se esta sumando nada al while, haciendo imposible volverlo False
-#2 Falta la suma que serie "numero += 1"
+#1. No imprimio 10 ya que es el final, y range no incluye el final
+#2. Para que llegue hasta el 10, tien que terminar en 11 
