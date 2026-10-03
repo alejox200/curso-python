@@ -1,5 +1,9 @@
-for numero in range(2, 11, 2):
-    print(numero)
+contador = 1
 
-#1. No imprimio 10 ya que es el final, y range no incluye el final
-#2. Para que llegue hasta el 10, tien que terminar en 11 
+while contador <= 5:
+    if contador == 3:
+        continue
+    print(f"Número: {contador}")
+    contador += 1
+#Se queda en un bucle infinito porque no hay ningun valor que lo pare ya que se salta el contador
+#El contador tiene que ser agregado antes del continue para tomarse en cuenta 

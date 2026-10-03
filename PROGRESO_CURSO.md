@@ -380,10 +380,34 @@
 - **Puntuación sesión:** 96 / 100 (Comprensión profunda y sólida del patrón acumulador en bucles).
 - **Nivel de dificultad:** Básico-Intermedio.
 - **Pistas utilizadas:** 1.
-- **Tiempo de Estudio Hoy (26/09/2026):** **42 minutos** (18:44 a 19:26).
-- **Tiempo Total Acumulado en el Curso:** **613 minutos (~10 horas y 13 minutos)** en 10 sesiones de estudio.
+- **Tiempo de Estudio (26/09/2026):** **42 minutos** (18:44 a 19:26).
 - **Estado:** ✅ Lección 2 del Capítulo 3 completada con éxito.
 - **Próximo paso:** Sesión 14 — Capítulo 3: Lección 3 (Control de Bucles: `break`, `continue` y la cláusula `else`).
+
+---
+
+### Sesión 14 — Capítulo 3: Control de Bucles (`break`, `continue`, `while True`)
+- **Fecha:** 02/10/2026
+- **Lección:** Capítulo 3 - Lección 3: Interrupción con `break`, salto con `continue`, menús interactivos persistentes con `while True`.
+- **Conceptos aprendidos:**
+  - Freno de emergencia con `break` para salir inmediatamente de bucles.
+  - Salto de iteración con `continue` para filtrar datos inválidos o comandos especiales.
+  - Creación de menús interactivos de consola persistentes con `while True`.
+  - Prevención de `continue` que se salten contadores en bucles `while`.
+  - Simplificación del ciclo principal (dejar que el `while True` repita el ciclo sin pedir entradas duplicadas).
+- **Conceptos dominados:**
+  - Construcción de menús y calculadoras interactivas con validación de opciones (`leccion3.py`).
+  - Diagnóstico de bucle infinito causado por `continue` en `pruebas_debugging.py`.
+  - Comprensión conceptual exacta de `break` vs `continue`.
+- **Ejercicios realizados:** `Capitulo 3/leccion3.py`, `Capitulo 3/caja_registradora.py`, `pruebas_debugging.py`.
+- **Puntuación sesión:** 94 / 100 (Gran ambición y estructura en la caja registradora).
+- **Nivel de dificultad:** Intermedio.
+- **Pistas utilizadas:** 0.
+- **Tiempo aproximado:** ~50 minutos (21:10 a 22:00).
+- **Tiempo Total Acumulado en el Curso:** **663 minutos (~11 horas y 3 minutos)** en 11 sesiones.
+- **Estado:** ✅ Lección 3 del Capítulo 3 completada con éxito.
+- **Próximo paso:** Sesión 15 — Capítulo 3: Lección 4 (Bucles Anidados y Patrones) + Proyecto del Capítulo 3.
+
 
 
 
